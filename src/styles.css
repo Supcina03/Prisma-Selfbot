@@ -1,0 +1,32 @@
+/* Add application styles & imports to this file! */
+
+html {
+  height: 100%;
+}
+
+body {
+  min-height: 100%;
+  position: relative;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.main {
+  min-height: 100%;
+  padding-bottom: 60px;
+}
+
+.footer {
+  background-color: #335296;
+  bottom: 0;
+  height: 80px;
+  line-height: 60px;
+  position: absolute;
+  width: 100%;
+}
+
+.row {
+  margin: 20px 0;
+}
+code {
+  color: rgb(161, 29, 29) !important;
+}
