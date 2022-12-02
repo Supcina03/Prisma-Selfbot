@@ -7,8 +7,8 @@ import { Component } from '@angular/core';
 export class LinksComponent {
   links = [
     {
-      url: 'https://discord.gg',
-      text: 'Contact Us',
+      url: 'https://docs.google.com/document/d/1NRg1HMFs3BZG3JhIvHbElHPe2eXuVhQ7k9SKTEOebxE/edit#',
+      text: 'Click Here:)',
     },
   ];
 }
