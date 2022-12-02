@@ -8,15 +8,15 @@ body {
   min-height: 100%;
   position: relative;
   font-family: 'Ubuntu', sans-serif;
+  background-image: url('./assets/Background_2.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
 
 html {
   font-family: helvetica, serif;
   color: white;
-  background-image: url('./assets/Background_2.jpg');
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
 }
 html,
 body {
