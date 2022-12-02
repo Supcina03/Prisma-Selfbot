@@ -2,9 +2,6 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-example',
-  templateUrl: './example.component.html'
+  templateUrl: './example.component.html',
 })
-
-export class ExampleComponent {
-  
-}
+export class ExampleComponent {}

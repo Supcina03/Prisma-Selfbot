@@ -8,7 +8,7 @@ export class LinksComponent {
   links = [
     {
       url: 'https://discord.gg',
-      text: 'Support Server',
+      text: 'Contact Us',
     },
   ];
 }
