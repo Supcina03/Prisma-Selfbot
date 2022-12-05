@@ -14,6 +14,12 @@ body {
   background-position: center;
 }
 
+p {
+  color: white;
+  font-weight: 400;
+  font-size: 17px;
+}
+
 html {
   font-family: helvetica, serif;
   color: white;
@@ -98,6 +104,8 @@ h4 {
   min-height: 100%;
   padding-bottom: -40px;
 }
+
+
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
 body {
@@ -192,6 +200,8 @@ ul {
     width: 100%;
   }
 }
+
+
 
 .row {
   margin: 20px 0;

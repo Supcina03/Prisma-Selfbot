@@ -8,7 +8,7 @@ export class LinksComponent {
   links = [
     {
       url: 'https://docs.google.com/document/d/1NRg1HMFs3BZG3JhIvHbElHPe2eXuVhQ7k9SKTEOebxE/edit#',
-      text: 'Click Here:)',
+      text: 'Tryk her:)',
     },
   ];
 }
