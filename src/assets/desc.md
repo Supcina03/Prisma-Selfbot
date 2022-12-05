@@ -10,3 +10,5 @@
 6. Selfbotten kan sende tilfældige billeder af en Shiba.
 7. Selfbotten kan joine opkald og afspille musikfiler.
 8. Selfbotten kan tælle specifikke ord.
+
+<span style="color:white"> _some emphasized markdown text_</span>
