@@ -13,7 +13,7 @@ import { FooterComponent } from './tutorial/footer.component';
 import { LinksComponent } from './tutorial/links.component';
 import { ExampleComponent } from './example/example.component';
 import { LoginComponent } from './login/login.component';
-import { LoginComponent } from './login/login.component';
+import { RegisterComponent } from './register/register.component';
 
 @NgModule({
   imports: [
@@ -31,6 +31,7 @@ import { LoginComponent } from './login/login.component';
     LinksComponent,
     ExampleComponent,
     LoginComponent,
+    RegisterComponent,
   ],
   bootstrap: [AppComponent],
 })
