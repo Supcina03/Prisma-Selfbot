@@ -13,6 +13,7 @@ import { FooterComponent } from './tutorial/footer.component';
 import { LinksComponent } from './tutorial/links.component';
 import { ExampleComponent } from './example/example.component';
 import { LoginComponent } from './login/login.component';
+import { LoginComponent } from './login/login.component';
 
 @NgModule({
   imports: [
