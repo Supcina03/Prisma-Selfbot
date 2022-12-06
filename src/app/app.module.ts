@@ -8,12 +8,13 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { MarkdownModule } from 'ngx-md';
 
 import { AppComponent } from './app.component';
-import { HeaderComponent } from './tutorial/header.component';
-import { FooterComponent } from './tutorial/footer.component';
-import { LinksComponent } from './tutorial/links.component';
+import { HeaderComponent } from './overall/header.component';
+import { FooterComponent } from './overall/footer.component';
+import { LinksComponent } from './overall/links.component';
 import { ExampleComponent } from './example/example.component';
 import { LoginComponent } from './login/login.component';
 import { RegisterComponent } from './register/register.component';
+import { TutorialComponent } from './tutorial/tutorial.component';
 
 @NgModule({
   imports: [
@@ -32,6 +33,7 @@ import { RegisterComponent } from './register/register.component';
     ExampleComponent,
     LoginComponent,
     RegisterComponent,
+    TutorialComponent,
   ],
   bootstrap: [AppComponent],
 })

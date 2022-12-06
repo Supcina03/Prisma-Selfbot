@@ -8,10 +8,16 @@ body {
   min-height: 100%;
   position: relative;
   font-family: 'Ubuntu', sans-serif;
-  background-image: url('./assets/Background_2.jpg');
+  /*https://w.wallha.com/ws/13/ns5fjIYK.jpg*/
+  /*Background_2.jpg*/
+  /*https://wallpapercrafter.com/desktop/79054-cat-artist-artwork-digital-art-hd-4k-5k-tokyo-deviantart-neon.jpg*/
+  /*https://www.kibrispdr.org/data/836/retro-city-wallpaper-5.jpg*/
+  /*https://wallpapercrafter.com/desktop/144682-digital-digital-art-artwork-illustration-drawing-digital-painting-fantasy-art-landscape-sky-skyscape-rocks-canyon-animals-silhouette-sunset-dusk-evening-night-night-sk.jpg*/
+
+  background-image: url('https://wallpapercrafter.com/desktop/144682-digital-digital-art-artwork-illustration-drawing-digital-painting-fantasy-art-landscape-sky-skyscape-rocks-canyon-animals-silhouette-sunset-dusk-evening-night-night-sk.jpg');
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center;
+  background-position: 10% 0%;
 }
 
 p {
@@ -127,7 +133,7 @@ ul {
   list-style: none;
 }
 .footer {
-  background-color: #343a40 !important;
+  background-color: #212529 !important;
   padding: 0px 0px;
 }
 .footer-col {
@@ -256,8 +262,7 @@ img.avatar {
 
 /* The "Forgot password" text */
 span.psw {
-  float: right;
-  padding-top: 16px;
+  float: left;
   color: white;
 }
 
