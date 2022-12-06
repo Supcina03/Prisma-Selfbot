@@ -9,15 +9,20 @@ body {
   position: relative;
   font-family: 'Ubuntu', sans-serif;
   /*https://w.wallha.com/ws/13/ns5fjIYK.jpg*/
-  /*Background_2.jpg*/
+  /*./assets/Background_2.jpg*/
   /*https://wallpapercrafter.com/desktop/79054-cat-artist-artwork-digital-art-hd-4k-5k-tokyo-deviantart-neon.jpg*/
   /*https://www.kibrispdr.org/data/836/retro-city-wallpaper-5.jpg*/
   /*https://wallpapercrafter.com/desktop/144682-digital-digital-art-artwork-illustration-drawing-digital-painting-fantasy-art-landscape-sky-skyscape-rocks-canyon-animals-silhouette-sunset-dusk-evening-night-night-sk.jpg*/
+  /*https://wallpapers.com/images/file/4k-earth-and-moon-in-space-huo9w63ktk37matc.jpg*/
+  /*https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/bee6c9a9-78f2-4294-ad27-6ca52060f5a5/dc6du5w-92b68c4d-c41c-44f2-9cdf-38ca4d895c99.jpg*/
+  /*https://wallpaper.dog/large/10719974.jpg*/
+  /*https://www.xtrafondos.com/wallpapers/auto-en-carretera-con-el-cielo-nocturno-arte-digital-9880.jpg*/
+  /*https://wallpaperaccess.com/full/2111.jpg*/
 
-  background-image: url('https://wallpapercrafter.com/desktop/144682-digital-digital-art-artwork-illustration-drawing-digital-painting-fantasy-art-landscape-sky-skyscape-rocks-canyon-animals-silhouette-sunset-dusk-evening-night-night-sk.jpg');
+  background-image: url('https://www.xtrafondos.com/wallpapers/auto-en-carretera-con-el-cielo-nocturno-arte-digital-9880.jpg');
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: 10% 0%;
+  background-position: 0% 00%;
 }
 
 p {
@@ -141,6 +146,8 @@ ul {
   padding: 0px 15px;
 }
 .footer-col h4 {
+  padding-bottom: 5px;
+  padding-top: 0px;
   font-size: 18px;
   color: #ffffff;
   text-transform: capitalize;
