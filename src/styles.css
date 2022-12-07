@@ -18,11 +18,18 @@ body {
   /*https://wallpaper.dog/large/10719974.jpg*/
   /*https://www.xtrafondos.com/wallpapers/auto-en-carretera-con-el-cielo-nocturno-arte-digital-9880.jpg*/
   /*https://wallpaperaccess.com/full/2111.jpg*/
+  /*https://images.hdqwalls.com/download/forest-dark-evening-sunset-last-light-minimalistic-5c-2560x1440.jpg*/
+  /*https://wallscloud.net/img/resize/2560/1440/MM/2021-08-17-Firewatch.png*/
+  /*https://images.wallpapersden.com/image/download/firewatch-2017_am1pZmeUmZqaraWkpJRobWllrWdma2U.jpg*/
 
-  background-image: url('https://www.xtrafondos.com/wallpapers/auto-en-carretera-con-el-cielo-nocturno-arte-digital-9880.jpg');
+  /*https://images.hdqwalls.com/wallpapers/sunset-drive-g4.jpg*/
+  /*https://images.hdqwalls.com/wallpapers/after-rain-neon-forest-4k-42.jpg*/
+  /*https://images.hdqwalls.com/download/last-dreamy-night-4k-79-1920x1080.jpg*/
+
+  background-image: url('https://images.hdqwalls.com/download/last-dreamy-night-4k-79-1920x1080.jpg');
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: 0% 00%;
+  background-position: 0% -90%;
 }
 
 p {
