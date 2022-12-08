@@ -15,7 +15,7 @@ import { ExampleComponent } from './example/example.component';
 import { LoginComponent } from './login/login.component';
 import { RegisterComponent } from './register/register.component';
 import { TutorialComponent } from './tutorial/tutorial.component';
-
+import { AboutusComponent } from './aboutus/aboutus.component';
 @NgModule({
   imports: [
     RouterModule.forRoot([]),
@@ -34,6 +34,7 @@ import { TutorialComponent } from './tutorial/tutorial.component';
     LoginComponent,
     RegisterComponent,
     TutorialComponent,
+    AboutusComponent,
   ],
   bootstrap: [AppComponent],
 })

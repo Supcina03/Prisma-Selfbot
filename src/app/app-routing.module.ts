@@ -5,6 +5,7 @@ import { LoginComponent } from './login/login.component';
 import { ExampleComponent } from './example/example.component';
 import { RegisterComponent } from './register/register.component';
 import { TutorialComponent } from './tutorial/tutorial.component';
+import { AboutusComponent } from './aboutus/aboutus.component';
 
 const routes: Routes = [
   {
@@ -23,11 +24,13 @@ const routes: Routes = [
     path: 'tutorial',
     component: TutorialComponent,
   },
+  {
+    path: 'aboutus',
+    component: AboutusComponent,
+  },
 ];
 @NgModule({
   imports: [RouterModule.forChild(routes)],
   exports: [RouterModule],
- 
-
 })
 export class AppRoutingModule {}
