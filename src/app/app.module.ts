@@ -15,7 +15,7 @@ import { ExampleComponent } from './example/example.component';
 import { LoginComponent } from './login/login.component';
 import { RegisterComponent } from './register/register.component';
 import { TutorialComponent } from './tutorial/tutorial.component';
-import { AboutusComponent } from './aboutus/aboutus.component';
+import { AboutusComponent } from './aboutus/aboutus.component'; /*Referring to different diretories */
 @NgModule({
   imports: [
     RouterModule.forRoot([]),

@@ -21,8 +21,8 @@ const routes: Routes = [
     component: RegisterComponent,
   },
   {
-    path: 'tutorial',
-    component: TutorialComponent,
+    path: 'tutorial' /*Defines the url */,
+    component: TutorialComponent /*Defines the component */,
   },
   {
     path: 'aboutus',
