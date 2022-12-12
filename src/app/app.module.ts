@@ -1,3 +1,4 @@
+/*Imports are things that are coming outside of that module that you need. You might be using those in the components inside that module. */
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { FormsModule } from '@angular/forms';
@@ -26,6 +27,7 @@ import { AboutusComponent } from './aboutus/aboutus.component'; /*Referring to d
     MarkdownModule.forRoot(),
   ],
   declarations: [
+    /*Declarations are things you created under a module such as components, services, pipes. */
     AppComponent,
     HeaderComponent,
     FooterComponent,
